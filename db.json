@@ -31,11 +31,9 @@
       }
     ],
     "city": [
-  
-  
       {
         "id": 6,
-        "cityname": "THENMALA, KERALA",
+        "cityname": "thenmala, kerala",
         "price": 57000,
         "about": "Adventure tourists can spend an entire day happily at Thenmala. The whole place is drenched in the beauty and calmness of the forest around. Travellers are welcome to test their spirit of adventure in the Adventure Zone located here. Go for, Nature Trail, Elevated walkway, Lotus pond, Resting points, Mountain Biking, Recreations Rock climbing & Rappelling, River Crossing, Tunnel Walk, Valley Crossing, Balancing Planks, Aerial Net Walk, Burma Bridge, Boating, Water Roller, Gyroscope, Flying fox, Aerial Skating and Walking, Wall and tree Climbing, Archery and Short Range at Thenmala.",
         "image": "https://images.pexels.com/photos/5473010/pexels-photo-5473010.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
@@ -70,10 +68,9 @@
           }
         ]
       },
-  
       {
         "id": 1,
-        "cityname": "SHIMLA",
+        "cityname": "shimala",
         "price": 66000,
         "about": "Shimla is a popular hill station in Himachal Pradesh, India. It offers breathtaking views of the Himalayas, colonial architecture, and a pleasant climate.",
         "image": "https://images.pexels.com/photos/6623919/pexels-photo-6623919.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
@@ -108,14 +105,9 @@
           }
         ]
       },
-  
-  
-  
-  
-  
       {
         "id": 2,
-        "cityname": "KANYAKUMARI",
+        "cityname": "kanyakumari",
         "price": 45000,
         "about": "Kanyakumari is a popular coastal town located at the southernmost tip of mainland India. It is known for its beautiful beaches, stunning sunsets, and iconic Vivekananda Rock Memorial.",
         "image": "https://images.pexels.com/photos/3076431/pexels-photo-3076431.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
@@ -150,14 +142,9 @@
           }
         ]
       },
-  
-  
-  
-  
-  
       {
         "id": 3,
-        "cityname": "MUSSOORIE",
+        "cityname": "mussorrie",
         "price": 28000,
         "about": "Mussorie is a picturesque hill station nestled in the foothills of the Garhwal Himalayan range in Uttarakhand, India. It is known for its pleasant climate, scenic beauty, and popular attractions like Kempty Falls and Lal Tibba.",
         "image": "https://images.pexels.com/photos/5993952/pexels-photo-5993952.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
@@ -192,13 +179,9 @@
           }
         ]
       },
-  
-  
-  
-  
       {
         "id": 4,
-        "cityname": "VISHAKHAPATNAM",
+        "cityname": "vishakhapatnam",
         "price": 29000,
         "about": "Vishakhapatnam, also known as Vizag, is a coastal city in Andhra Pradesh, India. It is famous for its pristine beaches, natural harbors, and the historical submarine museum INS Kurusura.",
         "image": "https://images.pexels.com/photos/4149390/pexels-photo-4149390.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
@@ -232,13 +215,10 @@
             "review": 45
           }
         ]
-      },
-  
-  
-  
+      },  
       {
         "id": 5,
-        "cityname": "OOTY",
+        "cityname": "ooty",
         "price": 31000,
         "about": "Ooty, also known as Udhagamandalam, is a popular hill station situated in the Nilgiri Hills of Tamil Nadu, India. It is known for its cool climate, tea plantations, and scenic beauty.",
         "image": "https://images.pexels.com/photos/15612480/pexels-photo-15612480/free-photo-of-high-angle-view-of-river-and-boat-in-an-asian-village.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
