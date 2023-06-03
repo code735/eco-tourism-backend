@@ -252,6 +252,246 @@
             "review": 48
           }
         ]
-      }
+      },
+      {
+        "id": 7,
+        "cityname": "Munnar",
+        "price": 35000,
+        "about": "Munnar is a picturesque hill station located in the Western Ghats of Kerala. It is known for its lush green tea plantations, scenic beauty, and abundant wildlife.",
+        "image": "https://images.pexels.com/photos/2219026/pexels-photo-2219026.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "activity": [
+          {
+            "title": "Eravikulam National Park",
+            "price": 150,
+            "location": "Eravikulam National Park",
+            "image": "https://images.pexels.com/photos/634341/pexels-photo-634341.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "review": 120
+          },
+          {
+            "title": "Tea Plantation Visit",
+            "price": 100,
+            "location": "Tea Plantations",
+            "image": "https://images.pexels.com/photos/698170/pexels-photo-698170.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "review": 121
+          },
+          {
+            "title": "Mattupetty Dam",
+            "price": 50,
+            "location": "Mattupetty Dam",
+            "image": "https://images.pexels.com/photos/1639566/pexels-photo-1639566.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "review": 122
+          }
+        ]
+      }, 
+      {
+        "id": 8,
+        "cityname": "Wayanad",
+        "price": 40000,
+        "about": "Wayanad is a beautiful district in Kerala known for its lush green forests, wildlife sanctuaries, and scenic landscapes. It offers numerous opportunities for eco-tourism activities.",
+        "image": "https://images.pexels.com/photos/2726363/pexels-photo-2726363.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "activity": [
+          {
+            "title": "Chembra Peak Trek",
+            "price": 200,
+            "location": "Chembra Peak",
+            "image": "https://images.pexels.com/photos/1011676/pexels-photo-1011676.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "review": 123
+          },
+          {
+            "title": "Banasura Sagar Dam",
+            "price": 150,
+            "location": "Banasura Sagar Dam",
+            "image": "https://images.pexels.com/photos/1013016/pexels-photo-1013016.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "review": 124
+          },
+          {
+            "title": "Edakkal Caves Exploration",
+            "price": 100,
+            "location": "Edakkal Caves",
+            "image": "https://images.pexels.com/photos/1108144/pexels-photo-1108144.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "review": 125
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "cityname": "Coorg",
+        "price": 45000,
+        "about": "Coorg, also known as Kodagu, is a scenic hill station in Karnataka renowned for its coffee plantations, waterfalls, and wildlife. It offers a tranquil retreat for nature lovers.",
+        "image": "https://images.pexels.com/photos/1591047/pexels-photo-1591047.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "activity": [
+          {
+            "title": "Abbey Falls",
+            "price": 150,
+            "location": "Abbey Falls",
+            "image": "https://images.pexels.com/photos/1775125/pexels-photo-1775125.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "review": 126
+          },
+          {
+            "title": "Trekking in Pushpagiri Wildlife Sanctuary",
+            "price": 100,
+            "location": "Pushpagiri Wildlife Sanctuary",
+            "image": "https://images.pexels.com/photos/1700447/pexels-photo-1700447.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "review": 127
+          },
+          {
+            "title": "Coffee Plantation Tour",
+            "price": 50,
+            "location": "Coffee Plantations",
+            "image": "https://images.pexels.com/photos/261335/pexels-photo-261335.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "review": 128
+          }
+        ]
+      },
+      {
+        "id": 10,
+        "cityname": "Rishikesh",
+        "price": 38000,
+        "about": "Rishikesh is a holy city situated in the foothills of the Himalayas, known for its spiritual significance and natural beauty. It is a popular destination for yoga, meditation, and adventure sports.",
+        "image": "https://images.pexels.com/photos/2449715/pexels-photo-2449715.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "activity": [
+          {
+            "title": "River Rafting in Ganges",
+            "price": 200,
+            "location": "Ganges River",
+            "image": "https://images.pexels.com/photos/300365/pexels-photo-300365.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "review": 129
+          },
+          {
+            "title": "Trekking to Neer Garh Waterfall",
+            "price": 150,
+            "location": "Neer Garh Waterfall",
+            "image": "https://images.pexels.com/photos/532432/pexels-photo-532432.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "review": 130
+          },
+          {
+            "title": "Parmarth Niketan Ashram",
+            "price": 50,
+            "location": "Parmarth Niketan Ashram",
+            "image": "https://images.pexels.com/photos/372171/pexels-photo-372171.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "review": 131
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "cityname": "Thekkady",
+        "price": 42000,
+        "about": "Thekkady is a wildlife sanctuary located in Kerala, known for its dense forests, diverse flora and fauna, and Periyar Lake. It offers various ecotourism activities and wildlife encounters.",
+        "image": "https://images.pexels.com/photos/6624170/pexels-photo-6624170.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "activity": [
+          {
+            "title": "Boat Safari on Periyar Lake",
+            "price": 150,
+            "location": "Periyar Lake",
+            "image": "https://images.pexels.com/photos/3815586/pexels-photo-3815586.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "review": 132
+          },
+          {
+            "title": "Elephant Junction Visit",
+            "price": 100,
+            "location": "Elephant Junction",
+            "image": "https://images.pexels.com/photos/212895/pexels-photo-212895.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "review": 133
+          },
+          {
+            "title": "Periyar Tiger Reserve",
+            "price": 50,
+            "location": "Periyar Tiger Reserve",
+            "image": "https://images.pexels.com/photos/6623895/pexels-photo-6623895.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "review": 134
+          }
+        ]
+      },
+      {
+        "id": 12,
+        "cityname": "Tawang",
+        "price": 48000,
+        "about": "Tawang is a scenic town in Arunachal Pradesh, located at an elevation of about 10,000 feet. It is known for its breathtaking landscapes, ancient monasteries, and rich cultural heritage.",
+        "image": "https://images.pexels.com/photos/6009781/pexels-photo-6009781.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "activity": [
+          {
+            "title": "Tawang Monastery",
+            "price": 150,
+            "location": "Tawang Monastery",
+            "image": "https://images.pexels.com/photos/6009780/pexels-photo-6009780.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "review": 135
+          },
+          {
+            "title": "Pankang Teng Tso Lake",
+            "price": 100,
+            "location": "Pankang Teng Tso Lake",
+            "image": "https://images.pexels.com/photos/6009801/pexels-photo-6009801.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "review": 136
+          },
+          {
+            "title": "Bum La Pass",
+            "price": 50,
+            "location": "Bum La Pass",
+            "image": "https://images.pexels.com/photos/6009810/pexels-photo-6009810.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "review": 137
+          }
+        ]
+      },
+      {
+        "id": 13,
+        "cityname": "Manali",
+        "price": 38000,
+        "about": "Manali is a popular hill station nestled in the mountains of Himachal Pradesh. It is known for its scenic beauty, snow-capped peaks, adventure activities, and apple orchards.",
+        "image": "https://images.pexels.com/photos/7057652/pexels-photo-7057652.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "activity": [
+          {
+            "title": "Rohtang Pass",
+            "price": 150,
+            "location": "Rohtang Pass",
+            "image": "https://images.pexels.com/photos/132482/pexels-photo-132482.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "review": 138
+          },
+          {
+            "title": "Solang Valley",
+            "price": 100,
+            "location": "Solang Valley",
+            "image": "https://images.pexels.com/photos/7057523/pexels-photo-7057523.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "review": 139
+          },
+          {
+            "title": "Hadimba Devi Temple",
+            "price": 50,
+            "location": "Hadimba Devi Temple",
+            "image": "https://images.pexels.com/photos/165646/pexels-photo-165646.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "review": 140
+          }
+        ]
+      },
+      {
+        "id": 14,
+        "cityname": "Kaziranga National Park",
+        "price": 25000,
+        "about": "Kaziranga National Park is a UNESCO World Heritage Site located in Assam. It is renowned for its significant population of one-horned rhinoceroses and diverse wildlife. The park also features lush grasslands, wetlands, and the mighty Brahmaputra River.",
+        "image": "https://images.pexels.com/photos/2033995/pexels-photo-2033995.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "activity": [
+          {
+            "title": "Jeep Safari",
+            "price": 150,
+            "location": "Kaziranga National Park",
+            "image": "https://images.pexels.com/photos/2033998/pexels-photo-2033998.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "review": 141
+          },
+          {
+            "title": "Elephant Safari",
+            "price": 100,
+            "location": "Kaziranga National Park",
+            "image": "https://images.pexels.com/photos/2033996/pexels-photo-2033996.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "review": 142
+          },
+          {
+            "title": "Bird Watching",
+            "price": 50,
+            "location": "Kaziranga National Park",
+            "image": "https://images.pexels.com/photos/2033997/pexels-photo-2033997.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "review": 143
+          }
+        ]
+      }          
     ]
   }
