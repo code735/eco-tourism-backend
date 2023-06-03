@@ -32,43 +32,6 @@
     ],
     "city": [
       {
-        "id": 6,
-        "cityname": "thenmala, kerala",
-        "price": 57000,
-        "about": "Adventure tourists can spend an entire day happily at Thenmala. The whole place is drenched in the beauty and calmness of the forest around. Travellers are welcome to test their spirit of adventure in the Adventure Zone located here. Go for, Nature Trail, Elevated walkway, Lotus pond, Resting points, Mountain Biking, Recreations Rock climbing & Rappelling, River Crossing, Tunnel Walk, Valley Crossing, Balancing Planks, Aerial Net Walk, Burma Bridge, Boating, Water Roller, Gyroscope, Flying fox, Aerial Skating and Walking, Wall and tree Climbing, Archery and Short Range at Thenmala.",
-        "image": "https://images.pexels.com/photos/5473010/pexels-photo-5473010.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        "activity": [
-          {
-            "title": "Trekking",
-            "price": 600,
-            "location": "Thenmala Trek",
-            "image": "https://en-media.thebetterindia.com/uploads/2016/07/Thenmala-1.jpg",
-            "review": 148
-          },
-          {
-            "title": "Entry Fee",
-            "price": 240,
-            "location": "Thenmala Forest",
-            "image": "https://www.dtpckollam.com/static_banner/canop1.jpg",
-            "review": 149
-          },
-          {
-            "title": "Sightseeing",
-            "price": 350,
-            "location": "Kollam Boating",
-            "image": "https://www.dtpckollam.com/static_banner/thenmala-(1).jpg",
-            "review": 150
-          },
-          {
-            "title": "Photography",
-            "price": 200,
-            "location": "Dam Park",
-            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/19/31/69/lovely-view-from-thenmala.jpg?w=1200&h=1200&s=1",
-            "review": 151
-          }
-        ]
-      },
-      {
         "id": 1,
         "cityname": "shimala",
         "price": 66000,
@@ -250,6 +213,43 @@
             "location": "Toy Train Ride to Coonoor",
             "image": "https://ootytourism.co.in/images//tourist-places/ooty-mountain-railway/ooty-toy-train-mountain-railway-india-tourism-photo-gallery.jpg",
             "review": 48
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "cityname": "thenmala, kerala",
+        "price": 57000,
+        "about": "Adventure tourists can spend an entire day happily at Thenmala. The whole place is drenched in the beauty and calmness of the forest around. Travellers are welcome to test their spirit of adventure in the Adventure Zone located here. Go for, Nature Trail, Elevated walkway, Lotus pond, Resting points, Mountain Biking, Recreations Rock climbing & Rappelling, River Crossing, Tunnel Walk, Valley Crossing, Balancing Planks, Aerial Net Walk, Burma Bridge, Boating, Water Roller, Gyroscope, Flying fox, Aerial Skating and Walking, Wall and tree Climbing, Archery and Short Range at Thenmala.",
+        "image": "https://images.pexels.com/photos/5473010/pexels-photo-5473010.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "activity": [
+          {
+            "title": "Trekking",
+            "price": 600,
+            "location": "Thenmala Trek",
+            "image": "https://en-media.thebetterindia.com/uploads/2016/07/Thenmala-1.jpg",
+            "review": 148
+          },
+          {
+            "title": "Entry Fee",
+            "price": 240,
+            "location": "Thenmala Forest",
+            "image": "https://www.dtpckollam.com/static_banner/canop1.jpg",
+            "review": 149
+          },
+          {
+            "title": "Sightseeing",
+            "price": 350,
+            "location": "Kollam Boating",
+            "image": "https://www.dtpckollam.com/static_banner/thenmala-(1).jpg",
+            "review": 150
+          },
+          {
+            "title": "Photography",
+            "price": 200,
+            "location": "Dam Park",
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/19/31/69/lovely-view-from-thenmala.jpg?w=1200&h=1200&s=1",
+            "review": 151
           }
         ]
       },
