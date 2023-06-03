@@ -85,9 +85,9 @@
             "review": 156
           },
           {
-            "title": "Entry Fee",
+            "title": "Visit Vivekananda Rock Memorial",
             "price": 140,
-            "location": "Visit Vivekananda Rock Memorial",
+            "location": "Vivekananda Rock Memorial",
             "image": "https://vajiramandravi.s3.us-east-1.amazonaws.com/media/2019/12/27/9/46/3/vivekanand_rock_memorial.jpg",
             "review": 157
           },
@@ -123,9 +123,9 @@
             "review": 160
           },
           {
-            "title": "Entry Fee",
+            "title": "Cable Car Ride to Gun Hill",
             "price": 240,
-            "location": "Cable Car Ride to Gun Hill",
+            "location": "Gun Hill",
             "image": "https://www.holidify.com/images/cmsuploads/compressed/Gun-Hill_20171207134206.jpg",
             "review": 161
           },
@@ -161,7 +161,7 @@
             "review": 202
           },
           {
-            "title": "Entry Fee",
+            "title": "Araku Valley",
             "price": 300,
             "location": "Explore Araku Valley",
             "image": "https://static.toiimg.com/photo/97972354.cms",
@@ -199,7 +199,7 @@
             "review": 78
           },
           {
-            "title": "Entry Fee",
+            "title": "Explore Botanical Gardens",
             "price": 440,
             "location": "Explore Botanical Gardens",
             "image": "https://certified.natureexplore.org/wp-content/uploads/2019/07/RC2019_MOBOT-007-1024x768.jpg",
@@ -237,7 +237,7 @@
             "review": 148
           },
           {
-            "title": "Entry Fee",
+            "title": "Hiking",
             "price": 240,
             "location": "Thenmala Forest",
             "image": "https://www.dtpckollam.com/static_banner/canop1.jpg",
