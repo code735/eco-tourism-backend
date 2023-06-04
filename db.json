@@ -37,7 +37,7 @@
         "terrain":"hills",
         "price": 66000,
         "about": "Shimla is a popular hill station in Himachal Pradesh, India. It offers breathtaking views of the Himalayas, colonial architecture, and a pleasant climate.",
-        "image": "https://images.pexels.com/photos/6623919/pexels-photo-6623919.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Rain_in_Shimla.jpg/2560px-Rain_in_Shimla.jpg",
         "activity": [
           {
             "title": "Hiking",
@@ -75,7 +75,7 @@
         "price": 45000,
         "terrain":"beaches",
         "about": "Kanyakumari is a popular coastal town located at the southernmost tip of mainland India. It is known for its beautiful beaches, stunning sunsets, and iconic Vivekananda Rock Memorial.",
-        "image": "https://cdn.pixabay.com/photo/2023/04/22/11/11/travel-7943578_640.jpg",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/70/Land%27s_End_-_Vivekanda_Memorial_Rock_%2CKanyakumari.JPG",
         "activity": [
           {
             "title": "Sunset View at Kanyakumari Beach",
@@ -113,7 +113,7 @@
         "price": 28000,
         "terrain":"hills",
         "about": "Mussorie is a picturesque hill station nestled in the foothills of the Garhwal Himalayan range in Uttarakhand, India. It is known for its pleasant climate, scenic beauty, and popular attractions like Kempty Falls and Lal Tibba.",
-        "image": "https://images.pexels.com/photos/5993952/pexels-photo-5993952.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "image": "https://cdn1.goibibo.com/voy_ing/t_fs/dehradun-mussoorie-149431175046o.jpeg",
         "activity": [
           {
             "title": "Trekking",
@@ -151,7 +151,7 @@
         "price": 29000,
         "terrain":"beaches",
         "about": "Vishakhapatnam, also known as Vizag, is a coastal city in Andhra Pradesh, India. It is famous for its pristine beaches, natural harbors, and the historical submarine museum INS Kurusura.",
-        "image": "https://images.unsplash.com/photo-1609854534028-b512f5246abc?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8dmlzYWtoYXBhdG5hbXxlbnwwfHwwfHx8MA%3D%3D&w=1000&q=80",
+        "image": "https://4.bp.blogspot.com/--78ONYeWfGQ/Uq1tgtAo76I/AAAAAAAAALo/PigyKWeXgHA/s1600/vizag-tenneti-park-wallpapers.jpg",
         "activity": [
           {
             "title": "Trekking",
@@ -189,7 +189,7 @@
         "price": 31000,
         "terrain":"hills",
         "about": "Ooty, also known as Udhagamandalam, is a popular hill station situated in the Nilgiri Hills of Tamil Nadu, India. It is known for its cool climate, tea plantations, and scenic beauty.",
-        "image": "https://images.pexels.com/photos/15612480/pexels-photo-15612480/free-photo-of-high-angle-view-of-river-and-boat-in-an-asian-village.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "image": "https://wallpapercave.com/wp/wp3495633.jpg",
         "activity": [
           {
             "title": "Trekking",
@@ -227,7 +227,7 @@
         "price": 57000,
         "terrain":"hills",
         "about": "Adventure tourists can spend an entire day happily at Thenmala. The whole place is drenched in the beauty and calmness of the forest around. Travellers are welcome to test their spirit of adventure in the Adventure Zone located here. Go for, Nature Trail, Elevated walkway, Lotus pond, Resting points, Mountain Biking, Recreations Rock climbing & Rappelling, River Crossing, Tunnel Walk, Valley Crossing, Balancing Planks, Aerial Net Walk, Burma Bridge, Boating, Water Roller, Gyroscope, Flying fox, Aerial Skating and Walking, Wall and tree Climbing, Archery and Short Range at Thenmala.",
-        "image": "https://images.pexels.com/photos/5473010/pexels-photo-5473010.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/65/Thenmala_parappar_dam_reservoir.jpg",
         "activity": [
           {
             "title": "Trekking",
@@ -265,7 +265,7 @@
         "price": 35000,
         "terrain":"hills",
         "about": "Munnar is a picturesque hill station located in the Western Ghats of Kerala. It is known for its lush green tea plantations, scenic beauty, and abundant wildlife.",
-        "image": "https://images.pexels.com/photos/1065753/pexels-photo-1065753.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "image": "https://wallpapercave.com/wp/wp6733581.jpg",
         "activity": [
           {
             "title": "Eravikulam National Park",
@@ -296,7 +296,7 @@
         "price": 40000,
         "terrain":"beaches",
         "about": "Wayanad is a beautiful district in Kerala known for its lush green forests, wildlife sanctuaries, and scenic landscapes. It offers numerous opportunities for eco-tourism activities.",
-        "image": "https://asoulwindow.com/wp-content/uploads/2018/07/sign.jpg",
+        "image": "https://www.keralatourism.org/images/enchanting_kerala/hri/En_Ooru_tribal_heritage_village_Wayanad_1251.jpg",
         "activity": [
           {
             "title": "Chembra Peak Trek",
@@ -327,7 +327,7 @@
         "price": 45000,
         "terrain":"hills",
         "about": "Coorg, also known as Kodagu, is a scenic hill station in Karnataka renowned for its coffee plantations, waterfalls, and wildlife. It offers a tranquil retreat for nature lovers.",
-        "image": "https://c0.wallpaperflare.com/preview/385/678/426/india-hebbettageri-abbi-falls-coorg.jpg",
+        "image": "https://static.cablo.cab/uploads/City/20180702_9b862795629.jpg",
         "activity": [
           {
             "title": "Abbey Falls",
@@ -358,7 +358,7 @@
         "terrain":"hills",
         "price": 38000,
         "about": "Rishikesh is a holy city situated in the foothills of the Himalayas, known for its spiritual significance and natural beauty. It is a popular destination for yoga, meditation, and adventure sports.",
-        "image": "https://d2ee1v1v1qq93z.cloudfront.net/City+Guides/Rishikesh+Website+Assets/Rishikesh+Neighborhood+Explore/Lower+Tapovan.jpg",
+        "image": "https://wallpaperaccess.com/full/2351792.jpg",
         "activity": [
           {
             "title": "River Rafting in Ganges",
@@ -420,7 +420,7 @@
         "terrain":"mountains",
         "price": 48000,
         "about": "Tawang is a scenic town in Arunachal Pradesh, located at an elevation of about 10,000 feet. It is known for its breathtaking landscapes, ancient monasteries, and rich cultural heritage.",
-        "image": "https://media.istockphoto.com/id/458127421/photo/sela-pass-district-of-tawang-arunachal-pradesh-india.jpg?s=612x612&w=0&k=20&c=yBg1BRI6_QzIUIDukD6NS_EMfIDG7773UD0pWG8eEOQ=",
+        "image": "https://wallpapercave.com/wp/wp11287474.jpg",
         "activity": [
           {
             "title": "Tawang Monastery",
@@ -451,7 +451,7 @@
         "terrain":"mountains",
         "price": 38000,
         "about": "Manali is a popular hill station nestled in the mountains of Himachal Pradesh. It is known for its scenic beauty, snow-capped peaks, adventure activities, and apple orchards.",
-        "image": "https://imvoyager.com/wp-content/uploads/2019/03/manali-.jpg",
+        "image": "https://a.travel-assets.com/findyours-php/viewfinder/images/res70/75000/75435-Manali-And-Vicinity.jpg",
         "activity": [
           {
             "title": "Rohtang Pass",
