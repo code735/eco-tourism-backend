@@ -35,6 +35,7 @@
         "id": 1,
         "cityname": "shimala",
         "terrain":"hills",
+        "wishlist":false,
         "price": 66000,
         "about": "Shimla is a popular hill station in Himachal Pradesh, India. It offers breathtaking views of the Himalayas, colonial architecture, and a pleasant climate.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Rain_in_Shimla.jpg/2560px-Rain_in_Shimla.jpg",
@@ -72,6 +73,7 @@
       {
         "id": 2,
         "cityname": "kanyakumari",
+        "wishlist":false,
         "price": 45000,
         "terrain":"beaches",
         "about": "Kanyakumari is a popular coastal town located at the southernmost tip of mainland India. It is known for its beautiful beaches, stunning sunsets, and iconic Vivekananda Rock Memorial.",
@@ -110,6 +112,7 @@
       {
         "id": 3,
         "cityname": "mussorrie",
+        "wishlist":false,
         "price": 28000,
         "terrain":"hills",
         "about": "Mussorie is a picturesque hill station nestled in the foothills of the Garhwal Himalayan range in Uttarakhand, India. It is known for its pleasant climate, scenic beauty, and popular attractions like Kempty Falls and Lal Tibba.",
@@ -148,6 +151,7 @@
       {
         "id": 4,
         "cityname": "vishakhapatnam",
+        "wishlist":false,
         "price": 29000,
         "terrain":"beaches",
         "about": "Vishakhapatnam, also known as Vizag, is a coastal city in Andhra Pradesh, India. It is famous for its pristine beaches, natural harbors, and the historical submarine museum INS Kurusura.",
@@ -186,6 +190,7 @@
       {
         "id": 5,
         "cityname": "ooty",
+        "wishlist":false,
         "price": 31000,
         "terrain":"hills",
         "about": "Ooty, also known as Udhagamandalam, is a popular hill station situated in the Nilgiri Hills of Tamil Nadu, India. It is known for its cool climate, tea plantations, and scenic beauty.",
@@ -224,6 +229,7 @@
       {
         "id": 6,
         "cityname": "thenmala, kerala",
+        "wishlist":false,
         "price": 57000,
         "terrain":"hills",
         "about": "Adventure tourists can spend an entire day happily at Thenmala. The whole place is drenched in the beauty and calmness of the forest around. Travellers are welcome to test their spirit of adventure in the Adventure Zone located here. Go for, Nature Trail, Elevated walkway, Lotus pond, Resting points, Mountain Biking, Recreations Rock climbing & Rappelling, River Crossing, Tunnel Walk, Valley Crossing, Balancing Planks, Aerial Net Walk, Burma Bridge, Boating, Water Roller, Gyroscope, Flying fox, Aerial Skating and Walking, Wall and tree Climbing, Archery and Short Range at Thenmala.",
@@ -262,6 +268,7 @@
       {
         "id": 7,
         "cityname": "Munnar",
+        "wishlist":false,
         "price": 35000,
         "terrain":"hills",
         "about": "Munnar is a picturesque hill station located in the Western Ghats of Kerala. It is known for its lush green tea plantations, scenic beauty, and abundant wildlife.",
@@ -293,6 +300,7 @@
       {
         "id": 8,
         "cityname": "Wayanad",
+        "wishlist":false,
         "price": 40000,
         "terrain":"beaches",
         "about": "Wayanad is a beautiful district in Kerala known for its lush green forests, wildlife sanctuaries, and scenic landscapes. It offers numerous opportunities for eco-tourism activities.",
@@ -324,6 +332,7 @@
       {
         "id": 9,
         "cityname": "Coorg",
+        "wishlist":false,
         "price": 45000,
         "terrain":"hills",
         "about": "Coorg, also known as Kodagu, is a scenic hill station in Karnataka renowned for its coffee plantations, waterfalls, and wildlife. It offers a tranquil retreat for nature lovers.",
@@ -355,6 +364,7 @@
       {
         "id": 10,
         "cityname": "Rishikesh",
+        "wishlist":false,
         "terrain":"hills",
         "price": 38000,
         "about": "Rishikesh is a holy city situated in the foothills of the Himalayas, known for its spiritual significance and natural beauty. It is a popular destination for yoga, meditation, and adventure sports.",
@@ -387,6 +397,7 @@
         "id": 11,
         "cityname": "Thekkady",
         "terrain":"wildlife",
+        "wishlist":false,
         "price": 42000,
         "about": "Thekkady is a wildlife sanctuary located in Kerala, known for its dense forests, diverse flora and fauna, and Periyar Lake. It offers various ecotourism activities and wildlife encounters.",
         "image": "https://wallpapercave.com/wp/wp11428555.jpg",
@@ -418,6 +429,7 @@
         "id": 12,
         "cityname": "Tawang",
         "terrain":"mountains",
+        "wishlist":false,
         "price": 48000,
         "about": "Tawang is a scenic town in Arunachal Pradesh, located at an elevation of about 10,000 feet. It is known for its breathtaking landscapes, ancient monasteries, and rich cultural heritage.",
         "image": "https://wallpapercave.com/wp/wp11287474.jpg",
@@ -449,6 +461,7 @@
         "id": 13,
         "cityname": "Manali",
         "terrain":"mountains",
+        "wishlist":false,
         "price": 38000,
         "about": "Manali is a popular hill station nestled in the mountains of Himachal Pradesh. It is known for its scenic beauty, snow-capped peaks, adventure activities, and apple orchards.",
         "image": "https://a.travel-assets.com/findyours-php/viewfinder/images/res70/75000/75435-Manali-And-Vicinity.jpg",
@@ -480,6 +493,7 @@
         "id": 14,
         "cityname": "Kaziranga National Park",
         "terrain":"grasslands",
+        "wishlist":false,
         "price": 25000,
         "about": "Kaziranga National Park is a UNESCO World Heritage Site located in Assam. It is renowned for its significant population of one-horned rhinoceroses and diverse wildlife. The park also features lush grasslands, wetlands, and the mighty Brahmaputra River.",
         "image": "https://www.kaziranganationalpark-india.com/blog/wp-content/uploads/2023/05/one-horned-rhino-kaziranga-national-park-1.jpg",
