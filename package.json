@@ -12,6 +12,7 @@
   "license": "ISC",
   "dependencies": {
     "json-server": "^0.17.3",
+    "jsonwebtoken": "^9.0.1",
     "nodemon": "^2.0.22"
   }
 }
