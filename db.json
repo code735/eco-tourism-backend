@@ -1,525 +1,531 @@
 {
-    "cardDetails": [
-      {
-        "cardNumber": 4375511234567899,
-        "expiryDate": 1025,
-        "cvv": 999,
-        "fullName": "Rohit Khanna"
-      }
-    ],
-    "camping": [
-      {
-        "id": 1,
-        "title": "Lake View 'N' Kalamkunnu (2 Persons For One Room)",
-        "price": 5000,
-        "about": "Lake view 'n' Kalamkunnu is the nearest camping destination with full ...",
-        "image": "https://images.pexels.com/photos/164595/pexels-photo-164595.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
-      },
-      {
-        "id": 2,
-        "title": "Bamboo Hut-Jungle Island (2 Persons For 24 Hour)",
-        "price": 7500,
-        "about": "Over Night in Bamboo Hut Visitors can enjoy the scenic beauty of fore...      ",
-        "image": "https://images.pexels.com/photos/6280686/pexels-photo-6280686.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
-      },
-      {
-        "id": 3,
-        "title": "Kurumthotti Top Hut (2 Persons For 24 Hour)",
-        "price": 8000,
-        "about": "Lake view 'n' Kalamkunnu is the nearest camping destination with full ...",
-        "image": "https://images.pexels.com/photos/4275885/pexels-photo-4275885.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
-      }
-    ],
-    "city": [
-      {
-        "id": 1,
-        "cityname": "shimala",
-        "terrain":"hills",
-        "wishlist":false,
-        "price": 66000,
-        "about": "Shimla is a popular hill station in Himachal Pradesh, India. It offers breathtaking views of the Himalayas, colonial architecture, and a pleasant climate.",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Rain_in_Shimla.jpg/2560px-Rain_in_Shimla.jpg",
-        "activity": [
-          {
-            "title": "Hiking",
-            "price": 150,
-            "location": "Jakhoo Hill",
-            "image": "https://d3gw4aml0lneeh.cloudfront.net/assets/locations/16017/COll370dXUWS.jpg",
-            "review": 152
-          },
-          {
-            "title": "Skiing",
-            "price": 200,
-            "location": "Kufri",
-            "image": "https://www.japjitravel.com/jap/media/uploads/kufri.jpg",
-            "review": 153
-          },
-          {
-            "title": "Mall Road Shopping",
-            "price": 50,
-            "location": "The Mall, Shimla",
-            "image": "https://s3.eu-west-2.amazonaws.com/tripspell/EXPERIENCE/mall-road-shimla/mall-road-shimla-0_high",
-            "review": 154
-          },
-          {
-            "title": "Visit Viceregal Lodge",
-            "price": 80,
-            "location": "Advanced Study",
-            "image": "https://images.pexels.com/photos/5774312/pexels-photo-5774312.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-            "review": 155
-          }
-        ]
-      },
-      {
-        "id": 2,
-        "cityname": "kanyakumari",
-        "wishlist":false,
-        "price": 45000,
-        "terrain":"beaches",
-        "about": "Kanyakumari is a popular coastal town located at the southernmost tip of mainland India. It is known for its beautiful beaches, stunning sunsets, and iconic Vivekananda Rock Memorial.",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/7/70/Land%27s_End_-_Vivekanda_Memorial_Rock_%2CKanyakumari.JPG",
-        "activity": [
-          {
-            "title": "Sunset View at Kanyakumari Beach",
-            "price": 300,
-            "location": "Kanyakumari Beach",
-            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/ff/71/21/images-4-largejpg.jpg?w=500&h=400&s=1",
-            "review": 156
-          },
-          {
-            "title": "Visit Vivekananda Rock Memorial",
-            "price": 140,
-            "location": "Vivekananda Rock Memorial",
-            "image": "https://vajiramandravi.s3.us-east-1.amazonaws.com/media/2019/12/27/9/46/3/vivekanand_rock_memorial.jpg",
-            "review": 157
-          },
-          {
-            "title": "Sightseeing",
-            "price": 250,
-            "location": "Thiruvalluvar Statue Sightseeing",
-            "image": "https://www.maduraitourism.com/wp-content/uploads/2014/06/spot3.jpg",
-            "review": 158
-          },
-          {
-            "title": "Photography",
-            "price": 100,
-            "location": "Explore Padmanabhapuram Palace",
-            "image": "https://assets.traveltriangle.com/blog/wp-content/uploads/2018/06/acj-2706-padmanabhapuram-palace-4.jpg",
-            "review": 159
-          }
-        ]
-      },
-      {
-        "id": 3,
-        "cityname": "mussorrie",
-        "wishlist":false,
-        "price": 28000,
-        "terrain":"hills",
-        "about": "Mussorie is a picturesque hill station nestled in the foothills of the Garhwal Himalayan range in Uttarakhand, India. It is known for its pleasant climate, scenic beauty, and popular attractions like Kempty Falls and Lal Tibba.",
-        "image": "https://cdn1.goibibo.com/voy_ing/t_fs/dehradun-mussoorie-149431175046o.jpeg",
-        "activity": [
-          {
-            "title": "Trekking",
-            "price": 149,
-            "location": "Trekking in the Himalayas",
-            "image": "https://images.pexels.com/photos/2629233/pexels-photo-2629233.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-            "review": 160
-          },
-          {
-            "title": "Cable Car Ride to Gun Hill",
-            "price": 240,
-            "location": "Gun Hill",
-            "image": "https://www.holidify.com/images/cmsuploads/compressed/Gun-Hill_20171207134206.jpg",
-            "review": 161
-          },
-          {
-            "title": "Sightseeing",
-            "price": 50,
-            "location": "Explore Mall Road",
-            "image": "https://pix10.agoda.net/hotelImages/34244654/-1/14a6f223f3ad13a0ffca17776d72e3c0.jpg?ce=0&s=1024x768",
-            "review": 162
-          },
-          {
-            "title": "Photography",
-            "price": 200,
-            "location": "Visit Kempty Falls",
-            "image": "https://images.pexels.com/photos/2418597/pexels-photo-2418597.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-            "review": 501
-          }
-        ]
-      },
-      {
-        "id": 4,
-        "cityname": "vishakhapatnam",
-        "wishlist":false,
-        "price": 29000,
-        "terrain":"beaches",
-        "about": "Vishakhapatnam, also known as Vizag, is a coastal city in Andhra Pradesh, India. It is famous for its pristine beaches, natural harbors, and the historical submarine museum INS Kurusura.",
-        "image": "https://4.bp.blogspot.com/--78ONYeWfGQ/Uq1tgtAo76I/AAAAAAAAALo/PigyKWeXgHA/s1600/vizag-tenneti-park-wallpapers.jpg",
-        "activity": [
-          {
-            "title": "Trekking",
-            "price": 245,
-            "location": "Visit RK Beach Vishakhapatnam",
-            "image": "https://1.bp.blogspot.com/-vgcslKOQbNg/X58Lt6Tn_PI/AAAAAAAAdtY/bMR9tckxd1kTw4JJAzBqLt6p3wiX-28IQCLcBGAsYHQ/s1556/VisakhapatnamRKBeach%2B%25283%2529.JPG",
-            "review": 202
-          },
-          {
-            "title": "Araku Valley",
-            "price": 300,
-            "location": "Explore Araku Valley",
-            "image": "https://static.toiimg.com/photo/97972354.cms",
-            "review": 21
-          },
-          {
-            "title": "Sightseeing",
-            "price": 450,
-            "location": "Submarine Museum Visit",
-            "image": "https://images.pexels.com/photos/67566/palm-tree-palm-ocean-summer-67566.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-            "review": 20
-          },
-          {
-            "title": "Photography",
-            "price": 300,
-            "location": "Dolphin's Nose Sightseeing",
-            "image": "https://www.holidify.com/images/cmsuploads/compressed/ScreenShot2020-01-30at11.03.39AM_20200130110406.png",
-            "review": 45
-          }
-        ]
-      },  
-      {
-        "id": 5,
-        "cityname": "ooty",
-        "wishlist":false,
-        "price": 31000,
-        "terrain":"hills",
-        "about": "Ooty, also known as Udhagamandalam, is a popular hill station situated in the Nilgiri Hills of Tamil Nadu, India. It is known for its cool climate, tea plantations, and scenic beauty.",
-        "image": "https://wallpapercave.com/wp/wp3495633.jpg",
-        "activity": [
-          {
-            "title": "Trekking",
-            "price": 500,
-            "location": "Boat Ride in Ooty Lake",
-            "image": "https://www.fabhotels.com/blog/wp-content/uploads/2018/10/1000x650-54.jpg",
-            "review": 78
-          },
-          {
-            "title": "Explore Botanical Gardens",
-            "price": 440,
-            "location": "Explore Botanical Gardens",
-            "image": "https://certified.natureexplore.org/wp-content/uploads/2019/07/RC2019_MOBOT-007-1024x768.jpg",
-            "review": 49
-          },
-          {
-            "title": "Sightseeing",
-            "price": 350,
-            "location": "Visit Doddabetta Peaks",
-            "image": "https://www.goldentriangletour.com/userfiles/Doddabeta-DSC_169423.jpg",
-            "review": 470
-          },
-          {
-            "title": "Photography",
-            "price": 200,
-            "location": "Toy Train Ride to Coonoor",
-            "image": "https://ootytourism.co.in/images//tourist-places/ooty-mountain-railway/ooty-toy-train-mountain-railway-india-tourism-photo-gallery.jpg",
-            "review": 48
-          }
-        ]
-      },
-      {
-        "id": 6,
-        "cityname": "thenmala, kerala",
-        "wishlist":false,
-        "price": 57000,
-        "terrain":"hills",
-        "about": "Adventure tourists can spend an entire day happily at Thenmala. The whole place is drenched in the beauty and calmness of the forest around. Travellers are welcome to test their spirit of adventure in the Adventure Zone located here. Go for, Nature Trail, Elevated walkway, Lotus pond, Resting points, Mountain Biking, Recreations Rock climbing & Rappelling, River Crossing, Tunnel Walk, Valley Crossing, Balancing Planks, Aerial Net Walk, Burma Bridge, Boating, Water Roller, Gyroscope, Flying fox, Aerial Skating and Walking, Wall and tree Climbing, Archery and Short Range at Thenmala.",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/6/65/Thenmala_parappar_dam_reservoir.jpg",
-        "activity": [
-          {
-            "title": "Trekking",
-            "price": 600,
-            "location": "Thenmala Trek",
-            "image": "https://en-media.thebetterindia.com/uploads/2016/07/Thenmala-1.jpg",
-            "review": 148
-          },
-          {
-            "title": "Hiking",
-            "price": 240,
-            "location": "Thenmala Forest",
-            "image": "https://www.dtpckollam.com/static_banner/canop1.jpg",
-            "review": 149
-          },
-          {
-            "title": "Sightseeing",
-            "price": 350,
-            "location": "Kollam Boating",
-            "image": "https://www.dtpckollam.com/static_banner/thenmala-(1).jpg",
-            "review": 150
-          },
-          {
-            "title": "Photography",
-            "price": 200,
-            "location": "Dam Park",
-            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/19/31/69/lovely-view-from-thenmala.jpg?w=1200&h=1200&s=1",
-            "review": 151
-          }
-        ]
-      },
-      {
-        "id": 7,
-        "cityname": "Munnar",
-        "wishlist":false,
-        "price": 35000,
-        "terrain":"hills",
-        "about": "Munnar is a picturesque hill station located in the Western Ghats of Kerala. It is known for its lush green tea plantations, scenic beauty, and abundant wildlife.",
-        "image": "https://wallpapercave.com/wp/wp6733581.jpg",
-        "activity": [
-          {
-            "title": "Eravikulam National Park",
-            "price": 150,
-            "location": "Eravikulam National Park",
-            "image": "https://images.pexels.com/photos/62600/pexels-photo-62600.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-            "review": 120
-          },
-          {
-            "title": "Tea Plantation Visit",
-            "price": 100,
-            "location": "Tea Plantations",
-            "image": "https://images.pexels.com/photos/13691355/pexels-photo-13691355.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-            "review": 121
-          },
-          {
-            "title": "Mattupetty Dam",
-            "price": 50,
-            "location": "Mattupetty Dam",
-            "image": "https://images.pexels.com/photos/574024/pexels-photo-574024.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-            "review": 122
-          }
-        ]
-      }, 
-      {
-        "id": 8,
-        "cityname": "Wayanad",
-        "wishlist":false,
-        "price": 40000,
-        "terrain":"beaches",
-        "about": "Wayanad is a beautiful district in Kerala known for its lush green forests, wildlife sanctuaries, and scenic landscapes. It offers numerous opportunities for eco-tourism activities.",
-        "image": "https://www.keralatourism.org/images/enchanting_kerala/hri/En_Ooru_tribal_heritage_village_Wayanad_1251.jpg",
-        "activity": [
-          {
-            "title": "Chembra Peak Trek",
-            "price": 200,
-            "location": "Chembra Peak",
-            "image": "https://images.pexels.com/photos/2496880/pexels-photo-2496880.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-            "review": 123
-          },
-          {
-            "title": "Banasura Sagar Dam",
-            "price": 150,
-            "location": "Banasura Sagar Dam",
-            "image": "https://images.pexels.com/photos/15773447/pexels-photo-15773447/free-photo-of-concrete-dam-in-close-up.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-            "review": 124
-          },
-          {
-            "title": "Edakkal Caves Exploration",
-            "price": 100,
-            "location": "Edakkal Caves",
-            "image": "https://www.keralatourism.org/images/destination/mobile/edakkal_caves20131106153318_335_1.jpg",
-            "review": 125
-          }
-        ]
-      },
-      {
-        "id": 9,
-        "cityname": "Coorg",
-        "wishlist":false,
-        "price": 45000,
-        "terrain":"hills",
-        "about": "Coorg, also known as Kodagu, is a scenic hill station in Karnataka renowned for its coffee plantations, waterfalls, and wildlife. It offers a tranquil retreat for nature lovers.",
-        "image": "https://static.cablo.cab/uploads/City/20180702_9b862795629.jpg",
-        "activity": [
-          {
-            "title": "Abbey Falls",
-            "price": 150,
-            "location": "Abbey Falls",
-            "image": "https://www.fabhotels.com/blog/wp-content/uploads/2021/05/Abbey_Falls_600x400.jpg",
-            "review": 126
-          },
-          {
-            "title": "Trekking in Pushpagiri Wildlife Sanctuary",
-            "price": 100,
-            "location": "Pushpagiri Wildlife Sanctuary",
-            "image": "https://media.tripinvites.com/places/coorg/pushpagiri-wildlife-sanctuary/bird-in-pushpagiri-wildlife-sanctuary-featured.jpg",
-            "review": 127
-          },
-          {
-            "title": "Coffee Plantation Tour",
-            "price": 50,
-            "location": "Coffee Plantations",
-            "image": "https://media.istockphoto.com/id/1351647600/photo/a-shallow-depth-of-field-picture-of-arabica-and-robosta-coffee-plants-in-a-plantation-along.jpg?s=612x612&w=0&k=20&c=eE2HptWjYJmz_qK8OxIARkUSsBA0jsLncWDb7hxGVlA=",
-            "review": 128
-          }
-        ]
-      },
-      {
-        "id": 10,
-        "cityname": "Rishikesh",
-        "wishlist":false,
-        "terrain":"hills",
-        "price": 38000,
-        "about": "Rishikesh is a holy city situated in the foothills of the Himalayas, known for its spiritual significance and natural beauty. It is a popular destination for yoga, meditation, and adventure sports.",
-        "image": "https://wallpaperaccess.com/full/2351792.jpg",
-        "activity": [
-          {
-            "title": "River Rafting in Ganges",
-            "price": 200,
-            "location": "Ganges River",
-            "image": "https://static.toiimg.com/photo/78363857.cms",
-            "review": 129
-          },
-          {
-            "title": "Trekking to Neer Garh Waterfall",
-            "price": 150,
-            "location": "Neer Garh Waterfall",
-            "image": "https://thumbs.dreamstime.com/b/small-waterfall-under-famous-neer-garh-rishikesh-uttarakhand-india-166274591.jpg",
-            "review": 130
-          },
-          {
-            "title": "Parmarth Niketan Ashram",
-            "price": 50,
-            "location": "Parmarth Niketan Ashram",
-            "image": "https://bugyalvalley.com/wp-content/uploads/2019/11/parmarth-niketan-ashram.jpg",
-            "review": 131
-          }
-        ]
-      },
-      {
-        "id": 11,
-        "cityname": "Thekkady",
-        "terrain":"wildlife",
-        "wishlist":false,
-        "price": 42000,
-        "about": "Thekkady is a wildlife sanctuary located in Kerala, known for its dense forests, diverse flora and fauna, and Periyar Lake. It offers various ecotourism activities and wildlife encounters.",
-        "image": "https://wallpapercave.com/wp/wp11428555.jpg",
-        "activity": [
-          {
-            "title": "Boat Safari on Periyar Lake",
-            "price": 150,
-            "location": "Periyar Lake",
-            "image": "https://media.istockphoto.com/id/1219222931/photo/periyar-lake-in-periyar-national-park-kerala-india.jpg?s=612x612&w=0&k=20&c=4Gr06xI2mgFTsKwj_v0yki3jbYbPPe7SgBJPyPUqTS4=",
-            "review": 132
-          },
-          {
-            "title": "Elephant Junction Visit",
-            "price": 100,
-            "location": "Elephant Junction",
-            "image": "https://elephantjunction.in/wp-content/uploads/2018/06/featured-trip-2.jpg",
-            "review": 133
-          },
-          {
-            "title": "Periyar Tiger Reserve",
-            "price": 50,
-            "location": "Periyar Tiger Reserve",
-            "image": "https://media.istockphoto.com/id/468907157/photo/periyar-tiger-reserve.jpg?s=612x612&w=0&k=20&c=rle8yDQ-d1MFdZg4GRw_OXxCvTNpnbMhd4xscQnfCnY=",
-            "review": 134
-          }
-        ]
-      },
-      {
-        "id": 12,
-        "cityname": "Tawang",
-        "terrain":"mountains",
-        "wishlist":false,
-        "price": 48000,
-        "about": "Tawang is a scenic town in Arunachal Pradesh, located at an elevation of about 10,000 feet. It is known for its breathtaking landscapes, ancient monasteries, and rich cultural heritage.",
-        "image": "https://wallpapercave.com/wp/wp11287474.jpg",
-        "activity": [
-          {
-            "title": "Tawang Monastery",
-            "price": 150,
-            "location": "Tawang Monastery",
-            "image": "https://t4.ftcdn.net/jpg/03/91/28/85/360_F_391288564_fiDr2cApuGnMXBnRLec6Z9ijIsBxZSu5.jpg",
-            "review": 135
-          },
-          {
-            "title": "Pankang Teng Tso Lake",
-            "price": 100,
-            "location": "Pankang Teng Tso Lake",
-            "image": "https://i.ytimg.com/vi/Nm83ZS2NZFk/maxresdefault.jpg",
-            "review": 136
-          },
-          {
-            "title": "Bum La Pass",
-            "price": 50,
-            "location": "Bum La Pass",
-            "image": "https://arunachalobserver.org/wp-content/uploads/2023/02/FaMKmIaVEAA9YFj.jpg",
-            "review": 137
-          }
-        ]
-      },
-      {
-        "id": 13,
-        "cityname": "Manali",
-        "terrain":"mountains",
-        "wishlist":false,
-        "price": 38000,
-        "about": "Manali is a popular hill station nestled in the mountains of Himachal Pradesh. It is known for its scenic beauty, snow-capped peaks, adventure activities, and apple orchards.",
-        "image": "https://a.travel-assets.com/findyours-php/viewfinder/images/res70/75000/75435-Manali-And-Vicinity.jpg",
-        "activity": [
-          {
-            "title": "Rohtang Pass",
-            "price": 150,
-            "location": "Rohtang Pass",
-            "image": "https://images.unsplash.com/photo-1574632430946-82add0b76816?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8cm9odGFuZyUyMHBhc3N8ZW58MHx8MHx8fDA%3D&w=1000&q=80",
-            "review": 138
-          },
-          {
-            "title": "Solang Valley",
-            "price": 100,
-            "location": "Solang Valley",
-            "image": "https://img.traveltriangle.com/blog/wp-content/uploads/2017/10/Cover13.jpg",
-            "review": 139
-          },
-          {
-            "title": "Hadimba Devi Temple",
-            "price": 50,
-            "location": "Hadimba Devi Temple",
-            "image": "https://static.toiimg.com/thumb/65196755.cms?resizemode=75&width=1200&height=900",
-            "review": 140
-          }
-        ]
-      },
-      {
-        "id": 14,
-        "cityname": "Kaziranga National Park",
-        "terrain":"grasslands",
-        "wishlist":false,
-        "price": 25000,
-        "about": "Kaziranga National Park is a UNESCO World Heritage Site located in Assam. It is renowned for its significant population of one-horned rhinoceroses and diverse wildlife. The park also features lush grasslands, wetlands, and the mighty Brahmaputra River.",
-        "image": "https://www.kaziranganationalpark-india.com/blog/wp-content/uploads/2023/05/one-horned-rhino-kaziranga-national-park-1.jpg",
-        "activity": [
-          {
-            "title": "Jeep Safari",
-            "price": 150,
-            "location": "Kaziranga National Park",
-            "image": "https://www.guwahatiplus.com/storage/app/public/daily_banners/23399/large/9d700b5838f8305cf38ee482aa07b3d2.png",
-            "review": 141
-          },
-          {
-            "title": "Elephant Safari",
-            "price": 100,
-            "location": "Kaziranga National Park",
-            "image": "https://previews.123rf.com/images/mathess/mathess1912/mathess191202739/135277654-kaziranga-india-january-30-2017-tourists-during-the-elephant-safari-in-kaziranga-national-park.jpg",
-            "review": 142
-          },
-          {
-            "title": "Bird Watching",
-            "price": 50,
-            "location": "Kaziranga National Park",
-            "image": "https://i.ytimg.com/vi/Li0ffdgLy_w/maxresdefault.jpg",
-            "review": 143
-          }
-        ]
-      }          
-    ]
-  }
+  "cardDetails": [
+    {
+      "cardNumber": 4375511234567899,
+      "expiryDate": 1025,
+      "cvv": 999,
+      "fullName": "Rohit Khanna"
+    }
+  ],
+  "camping": [
+    {
+      "id": 1,
+      "title": "Lake View 'N' Kalamkunnu (2 Persons For One Room)",
+      "price": 5000,
+      "about": "Lake view 'n' Kalamkunnu is the nearest camping destination with full ...",
+      "image": "https://images.pexels.com/photos/164595/pexels-photo-164595.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "id": 2,
+      "title": "Bamboo Hut-Jungle Island (2 Persons For 24 Hour)",
+      "price": 7500,
+      "about": "Over Night in Bamboo Hut Visitors can enjoy the scenic beauty of fore...      ",
+      "image": "https://images.pexels.com/photos/6280686/pexels-photo-6280686.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "id": 3,
+      "title": "Kurumthotti Top Hut (2 Persons For 24 Hour)",
+      "price": 8000,
+      "about": "Lake view 'n' Kalamkunnu is the nearest camping destination with full ...",
+      "image": "https://images.pexels.com/photos/4275885/pexels-photo-4275885.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    }
+  ],
+  "city": [
+    {
+      "id": 1,
+      "cityname": "shimala",
+      "terrain": "hills",
+      "wishlist": false,
+      "price": 66000,
+      "about": "Shimla is a popular hill station in Himachal Pradesh, India. It offers breathtaking views of the Himalayas, colonial architecture, and a pleasant climate.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Rain_in_Shimla.jpg/2560px-Rain_in_Shimla.jpg",
+      "activity": [
+        {
+          "title": "Hiking",
+          "price": 150,
+          "location": "Jakhoo Hill",
+          "image": "https://d3gw4aml0lneeh.cloudfront.net/assets/locations/16017/COll370dXUWS.jpg",
+          "review": 152
+        },
+        {
+          "title": "Skiing",
+          "price": 200,
+          "location": "Kufri",
+          "image": "https://www.japjitravel.com/jap/media/uploads/kufri.jpg",
+          "review": 153
+        },
+        {
+          "title": "Mall Road Shopping",
+          "price": 50,
+          "location": "The Mall, Shimla",
+          "image": "https://s3.eu-west-2.amazonaws.com/tripspell/EXPERIENCE/mall-road-shimla/mall-road-shimla-0_high",
+          "review": 154
+        },
+        {
+          "title": "Visit Viceregal Lodge",
+          "price": 80,
+          "location": "Advanced Study",
+          "image": "https://images.pexels.com/photos/5774312/pexels-photo-5774312.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          "review": 155
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "cityname": "kanyakumari",
+      "wishlist": false,
+      "price": 45000,
+      "terrain": "beaches",
+      "about": "Kanyakumari is a popular coastal town located at the southernmost tip of mainland India. It is known for its beautiful beaches, stunning sunsets, and iconic Vivekananda Rock Memorial.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/70/Land%27s_End_-_Vivekanda_Memorial_Rock_%2CKanyakumari.JPG",
+      "activity": [
+        {
+          "title": "Sunset View at Kanyakumari Beach",
+          "price": 300,
+          "location": "Kanyakumari Beach",
+          "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/ff/71/21/images-4-largejpg.jpg?w=500&h=400&s=1",
+          "review": 156
+        },
+        {
+          "title": "Visit Vivekananda Rock Memorial",
+          "price": 140,
+          "location": "Vivekananda Rock Memorial",
+          "image": "https://vajiramandravi.s3.us-east-1.amazonaws.com/media/2019/12/27/9/46/3/vivekanand_rock_memorial.jpg",
+          "review": 157
+        },
+        {
+          "title": "Sightseeing",
+          "price": 250,
+          "location": "Thiruvalluvar Statue Sightseeing",
+          "image": "https://www.maduraitourism.com/wp-content/uploads/2014/06/spot3.jpg",
+          "review": 158
+        },
+        {
+          "title": "Photography",
+          "price": 100,
+          "location": "Explore Padmanabhapuram Palace",
+          "image": "https://assets.traveltriangle.com/blog/wp-content/uploads/2018/06/acj-2706-padmanabhapuram-palace-4.jpg",
+          "review": 159
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "cityname": "mussorrie",
+      "wishlist": false,
+      "price": 28000,
+      "terrain": "hills",
+      "about": "Mussorie is a picturesque hill station nestled in the foothills of the Garhwal Himalayan range in Uttarakhand, India. It is known for its pleasant climate, scenic beauty, and popular attractions like Kempty Falls and Lal Tibba.",
+      "image": "https://cdn1.goibibo.com/voy_ing/t_fs/dehradun-mussoorie-149431175046o.jpeg",
+      "activity": [
+        {
+          "title": "Trekking",
+          "price": 149,
+          "location": "Trekking in the Himalayas",
+          "image": "https://images.pexels.com/photos/2629233/pexels-photo-2629233.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          "review": 160
+        },
+        {
+          "title": "Cable Car Ride to Gun Hill",
+          "price": 240,
+          "location": "Gun Hill",
+          "image": "https://www.holidify.com/images/cmsuploads/compressed/Gun-Hill_20171207134206.jpg",
+          "review": 161
+        },
+        {
+          "title": "Sightseeing",
+          "price": 50,
+          "location": "Explore Mall Road",
+          "image": "https://pix10.agoda.net/hotelImages/34244654/-1/14a6f223f3ad13a0ffca17776d72e3c0.jpg?ce=0&s=1024x768",
+          "review": 162
+        },
+        {
+          "title": "Photography",
+          "price": 200,
+          "location": "Visit Kempty Falls",
+          "image": "https://images.pexels.com/photos/2418597/pexels-photo-2418597.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          "review": 501
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "cityname": "vishakhapatnam",
+      "wishlist": false,
+      "price": 29000,
+      "terrain": "beaches",
+      "about": "Vishakhapatnam, also known as Vizag, is a coastal city in Andhra Pradesh, India. It is famous for its pristine beaches, natural harbors, and the historical submarine museum INS Kurusura.",
+      "image": "https://4.bp.blogspot.com/--78ONYeWfGQ/Uq1tgtAo76I/AAAAAAAAALo/PigyKWeXgHA/s1600/vizag-tenneti-park-wallpapers.jpg",
+      "activity": [
+        {
+          "title": "Trekking",
+          "price": 245,
+          "location": "Visit RK Beach Vishakhapatnam",
+          "image": "https://1.bp.blogspot.com/-vgcslKOQbNg/X58Lt6Tn_PI/AAAAAAAAdtY/bMR9tckxd1kTw4JJAzBqLt6p3wiX-28IQCLcBGAsYHQ/s1556/VisakhapatnamRKBeach%2B%25283%2529.JPG",
+          "review": 202
+        },
+        {
+          "title": "Araku Valley",
+          "price": 300,
+          "location": "Explore Araku Valley",
+          "image": "https://static.toiimg.com/photo/97972354.cms",
+          "review": 21
+        },
+        {
+          "title": "Sightseeing",
+          "price": 450,
+          "location": "Submarine Museum Visit",
+          "image": "https://images.pexels.com/photos/67566/palm-tree-palm-ocean-summer-67566.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          "review": 20
+        },
+        {
+          "title": "Photography",
+          "price": 300,
+          "location": "Dolphin's Nose Sightseeing",
+          "image": "https://www.holidify.com/images/cmsuploads/compressed/ScreenShot2020-01-30at11.03.39AM_20200130110406.png",
+          "review": 45
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "cityname": "ooty",
+      "wishlist": false,
+      "price": 31000,
+      "terrain": "hills",
+      "about": "Ooty, also known as Udhagamandalam, is a popular hill station situated in the Nilgiri Hills of Tamil Nadu, India. It is known for its cool climate, tea plantations, and scenic beauty.",
+      "image": "https://wallpapercave.com/wp/wp3495633.jpg",
+      "activity": [
+        {
+          "title": "Trekking",
+          "price": 500,
+          "location": "Boat Ride in Ooty Lake",
+          "image": "https://www.fabhotels.com/blog/wp-content/uploads/2018/10/1000x650-54.jpg",
+          "review": 78
+        },
+        {
+          "title": "Explore Botanical Gardens",
+          "price": 440,
+          "location": "Explore Botanical Gardens",
+          "image": "https://certified.natureexplore.org/wp-content/uploads/2019/07/RC2019_MOBOT-007-1024x768.jpg",
+          "review": 49
+        },
+        {
+          "title": "Sightseeing",
+          "price": 350,
+          "location": "Visit Doddabetta Peaks",
+          "image": "https://www.goldentriangletour.com/userfiles/Doddabeta-DSC_169423.jpg",
+          "review": 470
+        },
+        {
+          "title": "Photography",
+          "price": 200,
+          "location": "Toy Train Ride to Coonoor",
+          "image": "https://ootytourism.co.in/images//tourist-places/ooty-mountain-railway/ooty-toy-train-mountain-railway-india-tourism-photo-gallery.jpg",
+          "review": 48
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "cityname": "thenmala, kerala",
+      "wishlist": false,
+      "price": 57000,
+      "terrain": "hills",
+      "about": "Adventure tourists can spend an entire day happily at Thenmala. The whole place is drenched in the beauty and calmness of the forest around. Travellers are welcome to test their spirit of adventure in the Adventure Zone located here. Go for, Nature Trail, Elevated walkway, Lotus pond, Resting points, Mountain Biking, Recreations Rock climbing & Rappelling, River Crossing, Tunnel Walk, Valley Crossing, Balancing Planks, Aerial Net Walk, Burma Bridge, Boating, Water Roller, Gyroscope, Flying fox, Aerial Skating and Walking, Wall and tree Climbing, Archery and Short Range at Thenmala.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/65/Thenmala_parappar_dam_reservoir.jpg",
+      "activity": [
+        {
+          "title": "Trekking",
+          "price": 600,
+          "location": "Thenmala Trek",
+          "image": "https://en-media.thebetterindia.com/uploads/2016/07/Thenmala-1.jpg",
+          "review": 148
+        },
+        {
+          "title": "Hiking",
+          "price": 240,
+          "location": "Thenmala Forest",
+          "image": "https://www.dtpckollam.com/static_banner/canop1.jpg",
+          "review": 149
+        },
+        {
+          "title": "Sightseeing",
+          "price": 350,
+          "location": "Kollam Boating",
+          "image": "https://www.dtpckollam.com/static_banner/thenmala-(1).jpg",
+          "review": 150
+        },
+        {
+          "title": "Photography",
+          "price": 200,
+          "location": "Dam Park",
+          "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/19/31/69/lovely-view-from-thenmala.jpg?w=1200&h=1200&s=1",
+          "review": 151
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "cityname": "Munnar",
+      "wishlist": false,
+      "price": 35000,
+      "terrain": "hills",
+      "about": "Munnar is a picturesque hill station located in the Western Ghats of Kerala. It is known for its lush green tea plantations, scenic beauty, and abundant wildlife.",
+      "image": "https://wallpapercave.com/wp/wp6733581.jpg",
+      "activity": [
+        {
+          "title": "Eravikulam National Park",
+          "price": 150,
+          "location": "Eravikulam National Park",
+          "image": "https://images.pexels.com/photos/62600/pexels-photo-62600.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+          "review": 120
+        },
+        {
+          "title": "Tea Plantation Visit",
+          "price": 100,
+          "location": "Tea Plantations",
+          "image": "https://images.pexels.com/photos/13691355/pexels-photo-13691355.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+          "review": 121
+        },
+        {
+          "title": "Mattupetty Dam",
+          "price": 50,
+          "location": "Mattupetty Dam",
+          "image": "https://images.pexels.com/photos/574024/pexels-photo-574024.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+          "review": 122
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "cityname": "Wayanad",
+      "wishlist": false,
+      "price": 40000,
+      "terrain": "beaches",
+      "about": "Wayanad is a beautiful district in Kerala known for its lush green forests, wildlife sanctuaries, and scenic landscapes. It offers numerous opportunities for eco-tourism activities.",
+      "image": "https://www.keralatourism.org/images/enchanting_kerala/hri/En_Ooru_tribal_heritage_village_Wayanad_1251.jpg",
+      "activity": [
+        {
+          "title": "Chembra Peak Trek",
+          "price": 200,
+          "location": "Chembra Peak",
+          "image": "https://images.pexels.com/photos/2496880/pexels-photo-2496880.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+          "review": 123
+        },
+        {
+          "title": "Banasura Sagar Dam",
+          "price": 150,
+          "location": "Banasura Sagar Dam",
+          "image": "https://images.pexels.com/photos/15773447/pexels-photo-15773447/free-photo-of-concrete-dam-in-close-up.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+          "review": 124
+        },
+        {
+          "title": "Edakkal Caves Exploration",
+          "price": 100,
+          "location": "Edakkal Caves",
+          "image": "https://www.keralatourism.org/images/destination/mobile/edakkal_caves20131106153318_335_1.jpg",
+          "review": 125
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "cityname": "Coorg",
+      "wishlist": false,
+      "price": 45000,
+      "terrain": "hills",
+      "about": "Coorg, also known as Kodagu, is a scenic hill station in Karnataka renowned for its coffee plantations, waterfalls, and wildlife. It offers a tranquil retreat for nature lovers.",
+      "image": "https://static.cablo.cab/uploads/City/20180702_9b862795629.jpg",
+      "activity": [
+        {
+          "title": "Abbey Falls",
+          "price": 150,
+          "location": "Abbey Falls",
+          "image": "https://www.fabhotels.com/blog/wp-content/uploads/2021/05/Abbey_Falls_600x400.jpg",
+          "review": 126
+        },
+        {
+          "title": "Trekking in Pushpagiri Wildlife Sanctuary",
+          "price": 100,
+          "location": "Pushpagiri Wildlife Sanctuary",
+          "image": "https://media.tripinvites.com/places/coorg/pushpagiri-wildlife-sanctuary/bird-in-pushpagiri-wildlife-sanctuary-featured.jpg",
+          "review": 127
+        },
+        {
+          "title": "Coffee Plantation Tour",
+          "price": 50,
+          "location": "Coffee Plantations",
+          "image": "https://media.istockphoto.com/id/1351647600/photo/a-shallow-depth-of-field-picture-of-arabica-and-robosta-coffee-plants-in-a-plantation-along.jpg?s=612x612&w=0&k=20&c=eE2HptWjYJmz_qK8OxIARkUSsBA0jsLncWDb7hxGVlA=",
+          "review": 128
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "cityname": "Rishikesh",
+      "wishlist": false,
+      "terrain": "hills",
+      "price": 38000,
+      "about": "Rishikesh is a holy city situated in the foothills of the Himalayas, known for its spiritual significance and natural beauty. It is a popular destination for yoga, meditation, and adventure sports.",
+      "image": "https://wallpaperaccess.com/full/2351792.jpg",
+      "activity": [
+        {
+          "title": "River Rafting in Ganges",
+          "price": 200,
+          "location": "Ganges River",
+          "image": "https://static.toiimg.com/photo/78363857.cms",
+          "review": 129
+        },
+        {
+          "title": "Trekking to Neer Garh Waterfall",
+          "price": 150,
+          "location": "Neer Garh Waterfall",
+          "image": "https://thumbs.dreamstime.com/b/small-waterfall-under-famous-neer-garh-rishikesh-uttarakhand-india-166274591.jpg",
+          "review": 130
+        },
+        {
+          "title": "Parmarth Niketan Ashram",
+          "price": 50,
+          "location": "Parmarth Niketan Ashram",
+          "image": "https://bugyalvalley.com/wp-content/uploads/2019/11/parmarth-niketan-ashram.jpg",
+          "review": 131
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "cityname": "Thekkady",
+      "terrain": "wildlife",
+      "wishlist": false,
+      "price": 42000,
+      "about": "Thekkady is a wildlife sanctuary located in Kerala, known for its dense forests, diverse flora and fauna, and Periyar Lake. It offers various ecotourism activities and wildlife encounters.",
+      "image": "https://wallpapercave.com/wp/wp11428555.jpg",
+      "activity": [
+        {
+          "title": "Boat Safari on Periyar Lake",
+          "price": 150,
+          "location": "Periyar Lake",
+          "image": "https://media.istockphoto.com/id/1219222931/photo/periyar-lake-in-periyar-national-park-kerala-india.jpg?s=612x612&w=0&k=20&c=4Gr06xI2mgFTsKwj_v0yki3jbYbPPe7SgBJPyPUqTS4=",
+          "review": 132
+        },
+        {
+          "title": "Elephant Junction Visit",
+          "price": 100,
+          "location": "Elephant Junction",
+          "image": "https://elephantjunction.in/wp-content/uploads/2018/06/featured-trip-2.jpg",
+          "review": 133
+        },
+        {
+          "title": "Periyar Tiger Reserve",
+          "price": 50,
+          "location": "Periyar Tiger Reserve",
+          "image": "https://media.istockphoto.com/id/468907157/photo/periyar-tiger-reserve.jpg?s=612x612&w=0&k=20&c=rle8yDQ-d1MFdZg4GRw_OXxCvTNpnbMhd4xscQnfCnY=",
+          "review": 134
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "cityname": "Tawang",
+      "terrain": "mountains",
+      "wishlist": false,
+      "price": 48000,
+      "about": "Tawang is a scenic town in Arunachal Pradesh, located at an elevation of about 10,000 feet. It is known for its breathtaking landscapes, ancient monasteries, and rich cultural heritage.",
+      "image": "https://wallpapercave.com/wp/wp11287474.jpg",
+      "activity": [
+        {
+          "title": "Tawang Monastery",
+          "price": 150,
+          "location": "Tawang Monastery",
+          "image": "https://t4.ftcdn.net/jpg/03/91/28/85/360_F_391288564_fiDr2cApuGnMXBnRLec6Z9ijIsBxZSu5.jpg",
+          "review": 135
+        },
+        {
+          "title": "Pankang Teng Tso Lake",
+          "price": 100,
+          "location": "Pankang Teng Tso Lake",
+          "image": "https://i.ytimg.com/vi/Nm83ZS2NZFk/maxresdefault.jpg",
+          "review": 136
+        },
+        {
+          "title": "Bum La Pass",
+          "price": 50,
+          "location": "Bum La Pass",
+          "image": "https://arunachalobserver.org/wp-content/uploads/2023/02/FaMKmIaVEAA9YFj.jpg",
+          "review": 137
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "cityname": "Manali",
+      "terrain": "mountains",
+      "wishlist": false,
+      "price": 38000,
+      "about": "Manali is a popular hill station nestled in the mountains of Himachal Pradesh. It is known for its scenic beauty, snow-capped peaks, adventure activities, and apple orchards.",
+      "image": "https://a.travel-assets.com/findyours-php/viewfinder/images/res70/75000/75435-Manali-And-Vicinity.jpg",
+      "activity": [
+        {
+          "title": "Rohtang Pass",
+          "price": 150,
+          "location": "Rohtang Pass",
+          "image": "https://images.unsplash.com/photo-1574632430946-82add0b76816?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8cm9odGFuZyUyMHBhc3N8ZW58MHx8MHx8fDA%3D&w=1000&q=80",
+          "review": 138
+        },
+        {
+          "title": "Solang Valley",
+          "price": 100,
+          "location": "Solang Valley",
+          "image": "https://img.traveltriangle.com/blog/wp-content/uploads/2017/10/Cover13.jpg",
+          "review": 139
+        },
+        {
+          "title": "Hadimba Devi Temple",
+          "price": 50,
+          "location": "Hadimba Devi Temple",
+          "image": "https://static.toiimg.com/thumb/65196755.cms?resizemode=75&width=1200&height=900",
+          "review": 140
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "cityname": "Kaziranga National Park",
+      "terrain": "grasslands",
+      "wishlist": false,
+      "price": 25000,
+      "about": "Kaziranga National Park is a UNESCO World Heritage Site located in Assam. It is renowned for its significant population of one-horned rhinoceroses and diverse wildlife. The park also features lush grasslands, wetlands, and the mighty Brahmaputra River.",
+      "image": "https://www.kaziranganationalpark-india.com/blog/wp-content/uploads/2023/05/one-horned-rhino-kaziranga-national-park-1.jpg",
+      "activity": [
+        {
+          "title": "Jeep Safari",
+          "price": 150,
+          "location": "Kaziranga National Park",
+          "image": "https://www.guwahatiplus.com/storage/app/public/daily_banners/23399/large/9d700b5838f8305cf38ee482aa07b3d2.png",
+          "review": 141
+        },
+        {
+          "title": "Elephant Safari",
+          "price": 100,
+          "location": "Kaziranga National Park",
+          "image": "https://previews.123rf.com/images/mathess/mathess1912/mathess191202739/135277654-kaziranga-india-january-30-2017-tourists-during-the-elephant-safari-in-kaziranga-national-park.jpg",
+          "review": 142
+        },
+        {
+          "title": "Bird Watching",
+          "price": 50,
+          "location": "Kaziranga National Park",
+          "image": "https://i.ytimg.com/vi/Li0ffdgLy_w/maxresdefault.jpg",
+          "review": 143
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "username": "john",
+      "password": "$2b$10$BzRh3fgfzI1ppbh5QOajbutKsMCUFhQtHjydmuU7I1cqdVx1MI/0m"
+    }
+  ]
+}
