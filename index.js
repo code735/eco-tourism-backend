@@ -1,9 +1,6 @@
 const express = require("express");
 const jsonServer = require("json-server");
-const jwt = require('jsonwebtoken');
-const bcrypt = require('bcrypt');
 const fs = require('fs');
-const crypto = require('crypto');
 require('dotenv').config();
 
 const app = express();
@@ -11,37 +8,10 @@ const router = jsonServer.router("db.json");
 const middlewares = jsonServer.defaults();
 const port = process.env.PORT || 8080;
 
-const authenticateToken = (req, res, next) => {
-  const token = req.headers['authorization'];
-
-  if (req.path === '/signup') {
-    return next();
-  }
-
-  if (req.path === '/login') {
-    return next();
-  }
-
-  if (!token) {
-    return res.status(401).json({ message: 'Unauthorized: No token provided' });
-  }
-
-  jwt.verify(token, process.env.SECRET, (err, decoded) => {
-    if (err) {
-      return res.status(403).json({ message: 'Forbidden: Invalid token' });
-    }
-
-    req.user = decoded;
-    next();
-  });
-};
-
-
-app.use(authenticateToken);
-
 app.use(middlewares);
+app.use(express.json());
 
-app.get("/cardDetails", authenticateToken, (req, res) => {
+app.get("/cardDetails", (req, res) => {
   const cardDetails = router.db.get("cardDetails");
   res.json(cardDetails);
 });
@@ -66,8 +36,6 @@ const writeDataToFile = (data) => {
   fs.writeFileSync('db.json', jsonData);
 };
 
-app.use(express.json());
-
 app.post('/signup', async (req, res) => {
   try {
     const { username, password } = req.body;
@@ -79,10 +47,7 @@ app.post('/signup', async (req, res) => {
       return res.status(409).json({ message: 'Username already exists' });
     }
 
-    const saltRounds = 10;
-    const hashedPassword = await bcrypt.hash(password, saltRounds);
-
-    const newUser = { username, password: hashedPassword };
+    const newUser = { username, password };
     users.push(newUser);
 
     writeDataToFile({ ...readDataFromFile(), users });
@@ -105,22 +70,16 @@ app.post('/login', async (req, res) => {
       return res.status(401).json({ message: 'Invalid username or password' });
     }
 
-    const passwordMatch = await bcrypt.compare(password, user.password);
-    if (!passwordMatch) {
+    if (user.password !== password) {
       return res.status(401).json({ message: 'Invalid username or password' });
     }
 
-    const token = jwt.sign({ username: user.username }, process.env.SECRET);
-
-    console.log(token);
-
-    res.status(200).json({ message: 'Login successful', token });
+    res.status(200).json({ message: 'Login successful' });
   } catch (error) {
     console.error('Error during user login:', error);
     res.status(500).json({ message: 'Internal server error' });
   }
 });
-
 
 app.use(router);
 
